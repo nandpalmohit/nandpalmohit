@@ -13,4 +13,4 @@
 
 ### Connect With Me
 
-[<img align="left" alt="nandpalmohit99." width="22px" src="https://img.icons8.com/pastel-glyph/32/000000/earth-planet.png" />][https://nandpalmohit.github.io/nmportfolio/]
+[<img align="left" alt="nandpalmohit99." width="22px" src="https://img.icons8.com/pastel-glyph/32/000000/earth-planet.png" />][website]
