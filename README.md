@@ -34,10 +34,7 @@
 <br />
 
 ## Github Stats
-[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=nandpalmohit)](https://github.com/nandpalmohit/github-readme-stats)
-<br />
-## Github Readme Stats
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nandpalmohit&repo=github-readme-stats)](https://github.com/nandpalmohit/github-readme-stats&hide=prs)
-<br />
-## Most Used Language
+[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=nandpalmohit)](https://github.com/nandpalmohit/github-readme-stats&hide=prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandpalmohit&langs_count=8)](https://github.com/nandpalmohit/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nandpalmohit&repo=github-readme-stats)](https://github.com/nandpalmohit/github-readme-stats)
+
