@@ -37,5 +37,7 @@
 [![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=nandpalmohit)](https://github.com/nandpalmohit/github-readme-stats)
 <br />
 ## Github Readme Stats
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nandpalmohit&repo=github-readme-stats)](https://github.com/nandpalmohit/github-readme-stats&hide=prs)
+<br />
+## 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandpalmohit&layout=compact)](https://github.com/nandpalmohit/github-readme-stats)
