@@ -13,9 +13,19 @@
 <br />
 <br />
 
-### Hi, I'm Mohit Nandpal, a Passionate Frontend Wev developer from India.
+### Hi, I'm Mohit Nandpal, a Passionate Frontend Web developer from India.
 
 - 🔭 I’m currently working on [SwitchKit](#)
 - 🌱 I’m currently learning JavaScript (NodeJS, ReactJS)
 - 📌 HTML · CSS · JavaScript · PHP · Java(Basic) · SCSS-SASS · Bootstrap · ReactJS · NodeJS · WordPress · Photoshop
 - 💬 Ask me about anything [here](https://github.com/nandpalmohit/nandpalmohit/issues)
+
+**Languages and Tools:**  
+
+<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/bootstrap.png"></code>
+<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/javascript.png"></code>
+<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/reactjs.png"></code>
+<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/node.png"></code>
+<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/php.png"></code>
+<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/firebase.png"></code>
+<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/mysql.png"></code>
