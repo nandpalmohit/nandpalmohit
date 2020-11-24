@@ -9,3 +9,10 @@
 <a href="https://www.linkedin.com/in/nandpal-mohit-894375167/">
   <img align="left" alt="Nandpal Mohit | Linked In" width="26px" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/linkedin.png" />
 </a>
+
+### Hi, I'm Mohit Nandpal, a Passionate Frontend Wev developer from India.
+
+- 🔭 I’m currently working on [SwitchKit](#)
+- 🌱 I’m currently learning JavaScript (NodeJS, ReactJS)
+- 📌 HTML · CSS · JavaScript · PHP · Java(Basic) · SCSS-SASS · Bootstrap · ReactJS · NodeJS · WordPress · Photoshop
+- 💬 Ask me about anything [here](https://github.com/nandpalmohit/nandpalmohit/issues)
