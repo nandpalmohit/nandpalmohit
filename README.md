@@ -29,3 +29,5 @@
 <a><img align="left" height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/php.png"></a>
 <a><img align="left" height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/firebase.png"></a>
 <a><img align="left" height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/mysql.png"></a>
+
+[![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=nandpalmohit)](https://github.com/nandpalmohit/github-readme-stats)
