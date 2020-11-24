@@ -10,6 +10,9 @@
   <img align="left" alt="Nandpal Mohit | Linked In" width="26px" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/linkedin.png" />
 </a>
 
+<br />
+<br />
+
 ### Hi, I'm Mohit Nandpal, a Passionate Frontend Wev developer from India.
 
 - 🔭 I’m currently working on [SwitchKit](#)
