@@ -38,4 +38,4 @@
 <br />
 ## Github Readme Stats
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nandpalmohit&repo=github-readme-stats)](https://github.com/nandpalmohit/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nandpalmohit&repo=github-readme-stats)](https://github.com/nandpalmohit/github-readme-stats&hide=prs)
