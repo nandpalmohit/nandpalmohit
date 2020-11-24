@@ -30,4 +30,7 @@
 <a><img align="left" height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/firebase.png"></a>
 <a><img align="left" height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/mysql.png"></a>
 
+##Github Stats
+
 [![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=nandpalmohit)](https://github.com/nandpalmohit/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nandpalmohit&repo=github-readme-stats)](https://github.com/nandpalmohit/github-readme-stats)
