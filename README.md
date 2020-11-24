@@ -1,5 +1,8 @@
 ### Hi there, I'm Mohit Nandpal 🧑
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/nandpalmohit99?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/nandpalmohit99)
+
+
 ## I'm Frontend Developer | Web Designer | Backend Developer‍
 
 - 👨‍🎓 Currently Studying in B.E in Computer Eng.
@@ -8,5 +11,5 @@
 - ⚡ I love to ravelling, hiking, cricket, chess, play drum.
 
 
-### Spotify Playing 🎧
-<iframe src="https://open.spotify.com/embed/album/3w4IGs3MgYRrHrVuC6QGAu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
