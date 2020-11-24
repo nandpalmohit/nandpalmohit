@@ -22,10 +22,10 @@
 
 **Languages and Tools:**  
 
-<img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/javascript.png">
-<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/reactjs.png"></code>
-<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/node.png"></code>
-<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/bootstrap.png"></code>
-<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/php.png"></code>
-<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/firebase.png"></code>
-<code><img height="22" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/mysql.png"></code>
+<img height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/javascript.png">
+<img height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/reactjs.png">
+<img height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/node.png">
+<img height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/bootstrap.png">
+<img height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/php.png">
+<img height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/firebase.png">
+<img height="26" src="https://github.com/nandpalmohit/nandpalmohit/blob/main/assets/mysql.png">
