@@ -9,7 +9,8 @@
 - 🌱 Currently learning a NodejS, ReactJS,  Firebase.
 - 🥅 Working on IoT based Project, Finance Management Project, E-Commerce Shop project and many more.
 - ⚡ I love to ravelling, hiking, cricket, chess, play drum.
+- 📌 HTML · CSS · JavaScript · PHP · Java(Basic) · SCSS-SASS · Bootstrap · ReactJS · NodeJS · WordPress · Photoshop
 
+### Connect With Me
 
-
-
+[<img align="left" alt="nandpalmohit99." width="22px" src="https://img.icons8.com/pastel-glyph/32/000000/earth-planet.png" />][https://nandpalmohit.github.io/nmportfolio/]
