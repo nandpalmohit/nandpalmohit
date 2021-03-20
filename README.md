@@ -15,9 +15,9 @@
 
 ### Hi, I'm Mohit Nandpal, a Passionate Frontend Web developer from India.
 
-- 🔭 I’m currently working on [SwitchKit](#)
-- 🌱 I’m currently learning JavaScript (NodeJS, ReactJS)
-- 📌 HTML · CSS · JavaScript · PHP · Java(Basic) · SCSS-SASS · Bootstrap · ReactJS · NodeJS · WordPress · Photoshop
+- 🔭 I’m currently working on [HomeAuto](#)
+- 🌱 I’m currently learning Web Development (NodeJS, ReactJS, PHP, Ajax)
+- 📌 HTML · CSS · JavaScript · PHP · Java(Basic) · SCSS-SASS · Bootstrap · ReactJS · NodeJS · Ajax · WordPress · Photoshop
 - 💬 Ask me about anything [here](https://github.com/nandpalmohit/nandpalmohit/issues)
 
 **Languages and Tools:**  
